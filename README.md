@@ -1,4 +1,4 @@
-## Hi there 👋
+##
 
 
 <img src="./Image2.png" alt="" width="100%">
