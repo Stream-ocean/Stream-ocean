@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./深色图文件名.png">
+  <source media="(prefers-color-scheme: light)" srcset="./Image2.png">
+  <img alt="背景图" src="./Image2.png" width="100%">
+</picture>
 <!--
 **Stream-ocean/Stream-ocean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
